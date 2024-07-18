@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "russia_flag.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

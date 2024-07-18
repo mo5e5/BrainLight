@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "great_wall.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

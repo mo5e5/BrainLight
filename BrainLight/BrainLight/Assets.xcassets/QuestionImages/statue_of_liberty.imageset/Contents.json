@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "statue_of_liberty.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

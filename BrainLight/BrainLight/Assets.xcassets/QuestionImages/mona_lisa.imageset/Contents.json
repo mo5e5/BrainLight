@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mona_lisa.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

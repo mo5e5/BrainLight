@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mount_everest.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
